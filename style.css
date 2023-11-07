@@ -18,7 +18,7 @@ html {
   font-family: "Outfit", sans-serif;
 }
 
-body {
+main {
   background-color: var(--back);
   min-height: 100vh;
   display: flex;
